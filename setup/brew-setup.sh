@@ -22,5 +22,7 @@ brew install azure-cli
 brew install awscli
 brew install grep
 brew install sqlite
+brew install fzf
+brew install gnupg
 
 brew cleanup
