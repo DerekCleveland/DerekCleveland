@@ -117,3 +117,5 @@ alias cat="bat --paging=never"
 # COLORLS
 source $(dirname $(gem which colorls))/tab_complete.sh
 alias ls='colorls -A --sd'
+
+export GPG_TTY=$(tty)
