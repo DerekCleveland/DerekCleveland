@@ -79,7 +79,7 @@
 25. Printers & Scanners
     - Default
 
-## Brew Installs
+## Brew Installs (Must run first)
 
 Run brew-setup.sh
 
@@ -186,4 +186,4 @@ TODO
 
 1. Follow [github gpg](https://docs.github.com/en/authentication/managing-commit-signature-verification)
 
-2. 
+2.
